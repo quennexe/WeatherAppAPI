@@ -36,6 +36,6 @@ WeatherAppAPI/ │
 
 ## 🖼️ Arayüz Görünümü
 
-| Açık Tema | Karanlık Tema |
+| Tema |
 |----------|----------------|
 | ![light](docs/ss.png) | 
